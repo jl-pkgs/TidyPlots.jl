@@ -1,0 +1,6 @@
+*.pdf
+*.qmd
+Manifest.toml
+
+data
+.vscode
